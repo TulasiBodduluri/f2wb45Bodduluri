@@ -3,5 +3,5 @@ Tulasi Bodduluri
 
 https://f2wb45bodduluri.onrender.com
 
-class : Employee
+class : employee
 Attributes/types : ID(String), age(int), salary(double)
